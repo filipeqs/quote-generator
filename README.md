@@ -31,3 +31,4 @@ open index.html
 - Font Awesome: https://fontawesome.com
 - Hero Patterns: https://www.heropatterns.com
 - Loader: https://www.w3schools.com/howto/howto_css_loader.asp
+- Icon: https://favicon.io
