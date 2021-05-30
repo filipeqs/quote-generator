@@ -2,7 +2,7 @@
 
 Explore async fetch request to API to get list of quotes. Use font awesome icons and hero patterns vector bacground.
 
-Check the demo hosted on https://filipeqs.github.io/quote-generator/.
+Check the demo hosted on https://filipeqs.github.io/quote-generator/
 
 ---
 
