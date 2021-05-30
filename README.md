@@ -8,7 +8,7 @@ Check the demo hosted on https://filipeqs.github.io/quote-generator/.
 
 ## Instructions
 
-First clone this repository.
+First clone this repository
 
 ```bash
 $ git clone https://github.com/filipeqs/quote-generator.git
